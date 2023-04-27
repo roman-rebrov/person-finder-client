@@ -1,0 +1,1 @@
+export { default as PersonFinderContainer } from './Finder/PersonFinderContainer';
